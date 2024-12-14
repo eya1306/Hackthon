@@ -1,0 +1,5 @@
+langchain
+langchain_core
+langchain_google_genai
+fastapi
+uvicorn
